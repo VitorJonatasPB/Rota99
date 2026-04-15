@@ -54,7 +54,7 @@ Para rodar este projeto na sua máquina, você vai precisar ter instalado:
 - [Poetry](https://python-poetry.org/docs/#installation) (para instalar e gerenciar as bibliotecas)
 - **Git** (para clonar o repositório)
 
-## Como Rodar o Projeto (Manual)
+## Como Rodar o Projeto
 
 Siga o passo a passo padrão:
 
