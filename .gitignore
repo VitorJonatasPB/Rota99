@@ -66,5 +66,7 @@ setup.bat
 start.bat
 start_all.bat
 start_server.bat
+start_server_mobile.bat
+
 
 
