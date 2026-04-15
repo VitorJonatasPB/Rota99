@@ -21,7 +21,7 @@ O sistema foi dividido em três camadas principais:
 - **Python e Django:** O back-end foi desenvolvido em Python utilizando o Django (versão 6), escolhido por sua facilidade de uso e criação de APIs.
 - **Django REST Framework (DRF):** Utilizado para criar os endpoints da API que o aplicativo do celular consome. O **SimpleJWT** é usado para autenticação e gerenciamento de tokens de acesso.
 - **Banco de Dados:** O sistema utiliza **SQLite** em ambiente de desenvolvimento, pela simplicidade e facilidade de uso, e está configurado para **PostgreSQL** em produção, com o uso da biblioteca _psycopg_.
-- **Painel Administrativo:** O painel de administração do Django foi customizado com o _django-jazzmin_, proporcionando uma interface mais moderna e amigável.
+- **Painel Administrativo:** O painel de administração do Django foi customizado com o _django-jazzmin_, proporcionando uma interface mais amigável.
 - **Gerenciamento de Dependências:** O **Poetry** é utilizado para gerenciar as dependências do projeto, garantindo o controle de versões e a reprodutibilidade do ambiente.
 
 ### Front-end (O site principal / Páginas da Web)
